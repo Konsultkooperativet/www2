@@ -69,4 +69,3 @@ Mobil:
 Har du frågor får gärna skicka mail till [konsult@konsult.coop](mailto:konsult@konsult.coop).
 
 Vi ses!
-

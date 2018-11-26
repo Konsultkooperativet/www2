@@ -29,6 +29,8 @@ permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 
+all:                   Alla
+
 loading:               Loading…
 redirecting:           Redirecting…
 
@@ -126,6 +128,7 @@ resume:
   level:               Nivå
   interests:           Intressen
   keywords:            Nyckelord
+  summary:             Sammanfattning
   icons:
     fallback:          icon-link
     location:          icon-location
