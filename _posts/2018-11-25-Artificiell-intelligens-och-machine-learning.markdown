@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Kan man ha ett helt papperslöst kontor?"
-date:   2018-03-25 10:00:00 +0100
+title:  "Artificiell Intelligens och Machine Learning"
+date:   2018-11-25 10:00:00 +0100
 categories: administration ekonomi
-author: mb
+author: ji
 header:
   teaser: "/assets/img/ml_ai.jpg"
 ---
