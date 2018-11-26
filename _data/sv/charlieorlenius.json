@@ -5,9 +5,9 @@
     "label": "RF and Wireless Communications Professional",
     "picture": "/assets/img/charlieorlenius_avatar.jpg",
     "email": "co@konsult.coop",
-    "phone": "",
+    "phone": "+46 723 20 1624",
     "website": "",
-    "summary": "",
+    "summary": "Charlie has a long experience from product development in smaller startup company, bringing ideas to commercial success. He is dedicated to product development with his positive mindset and solution-based thinking. With experience from both management and development, he is an asset to any organisation. Charlie brings in-depth knowledge from both hardware and software development, in areas such as communication technology and RF/microwave engineering.",
     "location": {
       "address": "",
       "postalCode": "41657",
@@ -119,8 +119,8 @@
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
+      "institution": "Chalmers University of Technology",
+      "area": "Engineering Physics",
       "studyType": "Master’s Degree",
       "startDate": "1995-01-01",
       "gpa": "",
