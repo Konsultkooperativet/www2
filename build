@@ -12,7 +12,7 @@ cd  /opt/build/repo/_latex/
 ~/bin/xelatex -interaction=batchmode markusberglund
 ~/bin/xelatex -interaction=batchmode johanisaksson
 ~/bin/xelatex -interaction=batchmode charlieorlenius
-~/bin/xelatex -interaction=batchmode petronellatorgersson
+#~/bin/xelatex -interaction=batchmode petronellatorgersson
 
 mkdir ../_site/cv/pdf
 cp *.pdf ../_site/cv/pdf/
@@ -24,7 +24,7 @@ cd  /opt/build/repo/_latex/
 ~/bin/xelatex -interaction=batchmode markusberglund
 ~/bin/xelatex -interaction=batchmode johanisaksson
 ~/bin/xelatex -interaction=batchmode charlieorlenius
-~/bin/xelatex -interaction=batchmode petronellatorgersson
+#~/bin/xelatex -interaction=batchmode petronellatorgersson
 
 mkdir ../_site/en/cv/pdf
 cp *.pdf ../_site/en/cv/pdf/
