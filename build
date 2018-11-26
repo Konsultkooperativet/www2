@@ -29,5 +29,3 @@ cd  /opt/build/repo/_latex/
 mkdir ../_site/en/cv/pdf
 cp *.pdf ../_site/en/cv/pdf/
 
-cat markusberglund.log
-
