@@ -70,6 +70,14 @@ mb:
   picture:           /assets/img/markusberglund_avatar.jpg
   linkedin:          markusberglundmx
 
+ji:
+  name:              Johan Isaksson
+  email:             ji@konsult.coop
+  about:             |
+    [Johan Isaksson](/cv/johanisaksson) är Konsultkooperativets medgrundare. Han är en erfaren systemarkitekt och utvecklare.
+  picture:           /assets/img/johanisaksson_avatar.jpg
+  twitter:          @izaxon
+
 # Another author (optional)
 lv:
   name:              Linda Vitell
