@@ -6,7 +6,10 @@ description: Konsultkooperativet i samarbete med Brainville
 menu: false
 lang: sv
 permalink: /brainville
+image:     /assets/img/samverkan07.jpg
 ---
+![Full-width image](assets/img/samverkan07.jpg){:.lead}
+
 # Medlemsägt - inga ägare somn kräver avkastning
 Konsultkooperativet är Sveriges enda öppna kooperativa konsultbolag/mäklare. [Kontakta oss](mailto:konsult@konsult.coop) för att få höra mer om varför vi tror att kooperativ är det bästa sättet att driva konsultbolag på!
 
