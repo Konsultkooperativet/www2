@@ -8,7 +8,7 @@ lang: sv
 permalink: /brainville
 image:     /assets/img/samverkan07.jpg
 ---
-# Medlemsägt - inga ägare somn kräver avkastning
+# Medlemsägt - inga ägare som kräver avkastning
 Konsultkooperativet är Sveriges enda öppna kooperativa konsultbolag/mäklare. [Kontakta oss](mailto:konsult@konsult.coop) för att få höra mer om varför vi tror att kooperativ är det bästa sättet att driva konsultbolag på!
 
 # Alla medlemmar har egna bolag
