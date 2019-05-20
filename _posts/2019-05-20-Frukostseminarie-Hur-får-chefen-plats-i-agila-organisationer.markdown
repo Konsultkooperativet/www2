@@ -29,8 +29,10 @@ Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 
 <label>Don’t fill this out: <input name="bot-field"></label>
 </p>
 
-<p><button type="submit">Anmäl</button>
+<p>
+<button type="submit">Anmäl</button>
 </form>
+
 
 ## Mer information
 Har du frågor får gärna ställa dem nedan i kommentarsfältet, eller via mail till [konsult@konsult.coop](mailto:konsult@konsult.coop).
