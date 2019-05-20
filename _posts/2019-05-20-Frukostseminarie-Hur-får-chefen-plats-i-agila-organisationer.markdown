@@ -13,7 +13,7 @@ image: "/assets/img/event20190520pt.jpg"
 
 Petronella Torgersson har haft olika chefsroller i internationella bolag i över 15 år och har drivit omfattande agilt transformationsarbete. Hon kommer tala om komplexiteten att balansera arbetsgivaransvaret med de nya förväntningarna på ledarskapet och delar med sig av sina erfarenheter samt konkreta exempel på hur chefens roll går ihop med den agila utvecklingsvärldens ledarroller. 
 
-Välkomna 12 juni till Lindholmen i Göteborg och lyssna på Petronella. Seminariet pågår mellan 8.00 och 9.30 och frukost kommer att finnas framdukat från 7.30.
+Välkomna 12 juni till [Restaurang L](https://goo.gl/maps/Am3hz9Qx9wtiD5ds8) på Lindholmen i Göteborg och lyssna på Petronella. Seminariet pågår mellan 8.00 och 9.30 och frukost kommer att finnas framdukat från 7.30.
 
 Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 24h innan debiteras en "no show"-avgift på 400kr.  
 
@@ -28,10 +28,6 @@ Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 
 <input type="tel" name="telefon">
 </p>
 
-<p class="hidden">
-<label>Don’t fill this out: <input name="bot-field"></label>
-</p>
-<p>
 </p>
 <button type="submit">Anmäl</button>
 </form>
