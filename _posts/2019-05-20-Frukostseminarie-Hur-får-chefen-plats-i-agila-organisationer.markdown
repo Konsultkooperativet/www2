@@ -7,9 +7,9 @@ author: pt
 excerpt: "Ledarskap, självorganisering, autonoma team och chefens ansvar - hur får man det att fungera? Välkomna att lyssna till Konsultkooperativets Petronella Torgerssons erfarenheter av agilt ledarskap från bl a Ericsson och Spotify."
 header:
   teaser: "/assets/img/event20190520pt.jpg"
-image: "/assets/img/event20190520pt.png"
+image: "/assets/img/event20190520pt.jpg"
 ---
-<img src="/assets/img/event20190520pt.png" class="lead">Agila utvecklingsmetoder är etablerade idag och genom åren har olika metodiker förfinats. I detta har också förväntningarna på ledarskapet förändrats. Den traditionella auktoritära ledaren ersätts med självorganisering, servant leadership, färre chefer och ledaransvar spritt på flera roller. Om alla är ledare, behövs chefen då? Hur är man ens chef i en agil miljö? Vad kan man ställa en informell ledare till svars för?
+<img src="/assets/img/event20190520pt.jpg" class="lead">Agila utvecklingsmetoder är etablerade idag och genom åren har olika metodiker förfinats. I detta har också förväntningarna på ledarskapet förändrats. Den traditionella auktoritära ledaren ersätts med självorganisering, servant leadership, färre chefer och ledaransvar spritt på flera roller. Om alla är ledare, behövs chefen då? Hur är man ens chef i en agil miljö? Vad kan man ställa en informell ledare till svars för?
 
 Petronella Torgersson har haft olika chefsroller i internationella bolag i över 15 år och har drivit omfattande agilt transformationsarbete. Hon kommer tala om komplexiteten att balansera arbetsgivaransvaret med de nya förväntningarna på ledarskapet och delar med sig av sina erfarenheter samt konkreta exempel på hur chefens roll går ihop med den agila utvecklingsvärldens ledarroller. 
 
