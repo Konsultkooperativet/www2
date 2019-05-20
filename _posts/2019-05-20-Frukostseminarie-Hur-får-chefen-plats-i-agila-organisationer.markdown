@@ -17,7 +17,7 @@ Välkomna 12 juni till Södra Hamngatan 2 i Göteborg och lyssna på Petronella.
 
 Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 24h innan debiteras en "no show"-avgift på 400kr.  
 
-<form name="event20180221" netlify>
+<form name="event20190520" netlify>
 <p>Namn:
 <input type="text" name="name">
 </p>
