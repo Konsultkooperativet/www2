@@ -28,6 +28,7 @@ Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 
 <input type="tel" name="telefon">
 </p>
 
+<p></p>
 <button type="submit">Anmäl</button>
 </form>
 
