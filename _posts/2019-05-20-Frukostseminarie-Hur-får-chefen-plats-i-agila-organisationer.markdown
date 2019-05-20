@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hur får chefen plats i agila organisationer?"
+title:  "Frukostseminarie: Hur får chefen plats i agila organisationer?"
 date:   2019-05-20 10:00:00 +0100
 categories: chef ledarskap agile event
 author: pt
@@ -18,18 +18,18 @@ Välkomna 12 juni till Södra Hamngatan 2 i Göteborg och lyssna på Petronella.
 Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 24h innan debiteras en "no show"-avgift på 400kr.  
 
 <form name="event20180221" netlify>
-Namn:
+<p>Namn:
 <input type="text" name="name">
-Epost:
+<p>Epost:
 <input type="email" name="email">
-Mobil:
+<p>Mobil:
 <input type="tel" name="telefon">
 
 <p class="hidden">
 <label>Don’t fill this out: <input name="bot-field"></label>
 </p>
 
-<button type="submit">Anmäl</button>
+<p><button type="submit">Anmäl</button>
 </form>
 
 ## Mer information
