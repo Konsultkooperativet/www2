@@ -20,16 +20,19 @@ Anmälan sker här. Seminariet är gratis men i de fall man inte avbokar senast 
 <form name="event20180221" netlify>
 <p>Namn:
 <input type="text" name="name">
+</p>
 <p>Epost:
 <input type="email" name="email">
+</p>
 <p>Mobil:
 <input type="tel" name="telefon">
+</p>
 
 <p class="hidden">
 <label>Don’t fill this out: <input name="bot-field"></label>
 </p>
-
 <p>
+</p>
 <button type="submit">Anmäl</button>
 </form>
 
