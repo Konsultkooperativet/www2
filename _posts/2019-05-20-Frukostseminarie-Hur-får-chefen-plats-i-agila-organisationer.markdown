@@ -6,7 +6,7 @@ categories: chef ledarskap agile event
 author: pt
 excerpt: "Ledarskap, självorganisering, autonoma team och chefens ansvar - hur får man det att fungera? Välkomna att lyssna till Konsultkooperativets Petronella Torgerssons erfarenheter av agilt ledarskap från bl a Ericsson och Spotify."
 header:
-  teaser: "/assets/img/umbrella-1588167_640.jpg"
+  teaser: "/assets/img/event20190520pt.jpg"
 ---
 
 Agila utvecklingsmetoder är etablerade idag och genom åren har olika metodiker förfinats. I detta har också förväntningarna på ledarskapet förändrats. Den traditionella auktoritära ledaren ersätts med självorganisering, servant leadership, färre chefer och ledaransvar spritt på flera roller. Om alla är ledare, behövs chefen då? Hur är man ens chef i en agil miljö? Vad kan man ställa en informell ledare till svars för?
