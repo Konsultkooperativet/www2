@@ -34,4 +34,4 @@ Anmälan sker här. Seminariet är kostnadsfritt.
 
 
 ## Mer information
-Har du frågor får gärna ställa dem nedan i kommentarsfältet, eller via mail till [konsult@konsult.coop](mailto:konsult@konsult.coop).
+Har du frågor får gärna ställa dem via mail till [konsult@konsult.coop](mailto:konsult@konsult.coop).
