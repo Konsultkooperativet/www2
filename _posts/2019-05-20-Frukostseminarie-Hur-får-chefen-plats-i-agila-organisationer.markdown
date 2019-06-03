@@ -15,7 +15,9 @@ Petronella Torgersson har haft olika chefsroller i internationella bolag i över
 
 Välkomna 12:e juni till [L's Resto](https://goo.gl/maps/Am3hz9Qx9wtiD5ds8) på Lindholmen i Göteborg och lyssna på Petronella. Seminariet pågår mellan 8.00 och 9.30 (varav ca 45 min för frågor och diskussion). Frukost finns framdukat från 7.30.
 
-Anmälan sker här. Seminariet är kostnadsfritt.  
+Anmälan sker här. Seminariet är kostnadsfritt.
+
+*** Evenemanget är fullbokat! Anmäl nedan för att stå på väntelista!
 
 <form name="event20190520" netlify>
 <p>Namn:
