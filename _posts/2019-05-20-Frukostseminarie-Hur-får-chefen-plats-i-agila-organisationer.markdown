@@ -17,7 +17,7 @@ Välkomna 12:e juni till [L's Resto](https://goo.gl/maps/Am3hz9Qx9wtiD5ds8) på 
 
 Anmälan sker här. Seminariet är kostnadsfritt.
 
-*** Evenemanget är fullbokat! Anmäl nedan för att stå på väntelista!
+### Evenemanget är fullbokat! Anmäl nedan för att stå på väntelista!
 
 <form name="event20190520" netlify>
 <p>Namn:
