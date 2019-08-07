@@ -30,6 +30,19 @@
   },
   "work": [
     {
+      "company": "Viking Analytics AB",
+      "position": "Co-founder",
+      "website": "http://vikinganalytics.se",
+      "startDate": "2018-08-15",
+      "endDate": "",
+      "summary": "Utveckling av produkten Viking Analytics MultiViz som används av 'reliability teams' och domänexperter inom processindustrin. Utveckling av Machine Learning-algoritmer för digitala operatörer.",
+      "highlights": [
+        "Reinforcement Learning",
+        "Machine Learning",
+        "Fullstack software development"
+      ]
+    },
+    {
       "company": "Konsultkooperativet",
       "position": "Grundare",
       "website": "http://konsultkooperativet.se",
