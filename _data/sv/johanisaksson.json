@@ -6,7 +6,7 @@
     "picture": "/assets/img/johanisaksson_avatar.jpg",
     "email": "ji@konsult.coop",
     "phone": "0709-369520",
-    "website": "http://izaxon.se",
+    "website": "",
     "summary": "Senior applikationsarkitekt, programmerare och projektledare. Johan har arbetat med utveckling av mjukvaruprodukter, programmering och projektledning i över 30 år. Hans specialkompetens är produktutveckling, helst svåra projekt som är en utmaning.",
     "location": {
       "address": "Eklanda Skog 104",
@@ -15,6 +15,11 @@
       "countryCode": "SE",
       "region": "Västra Götalands Län"
     },
+    "birth": {
+      "place": "Borås",
+      "state": "Sweden",
+      "date": "1968-04-12"
+    },
     "profiles": [
       {
         "network": "Twitter",
@@ -22,24 +27,26 @@
         "url": "https://twitter.com/izaxon"
       },
       {
-        "network": "Skype",
-        "username": "izaxonab",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "johanisaksson",
+        "url": "https://www.linkedin.com/in/johanisaksson/"
       }
     ]
   },
   "work": [
     {
       "company": "Viking Analytics AB",
-      "position": "Co-founder",
+      "position": "Co-founder and Software Product Architect",
       "website": "http://vikinganalytics.se",
       "startDate": "2018-08-15",
       "endDate": "",
-      "summary": "Utveckling av produkten Viking Analytics MultiViz som används av 'reliability teams' och domänexperter inom processindustrin. Utveckling av Machine Learning-algoritmer för digitala operatörer.",
+      "summary": "Ansvarig för utveckling av produkten MultiViz Explorer som används av 'reliability teams' och domänexperter inom processindustrin. Utveckling av självlärande Machine Learning-algoritmer för digitala operatörer.",
       "highlights": [
         "Reinforcement Learning",
         "Machine Learning",
-        "Fullstack software development"
+        "Fullstack software development",
+        "Kubernetes, Docker, OpenShift, Helm, Dapr",
+        ".NET core, React, gRPC, SignalR, Python, Numpy, Pandas"
       ]
     },
     {
@@ -62,16 +69,26 @@
       "startDate": "2017-11-01",
       "endDate": "",
       "summary": "Utveckling av mobilapp för Gobius nivåsensorer.",
-      "highlights": ["React Native", "C#", "typescript", "Bluetooth LE"]
+      "highlights": [
+        "React Native",
+        "C#",
+        "typescript",
+        "Bluetooth LE"
+      ]
     },
     {
       "company": "ATI - Accurate Technologies AB",
-      "position": "Senior Developer",
+      "position": "Senior Software Developer",
       "website": "https://accuratetechnologies.se",
       "startDate": "2017-09-01",
       "endDate": "2018-08-31",
       "summary": "Utveckling av webapp för hantering av CAN-data.",
-      "highlights": ["React", "dotnet", "typescript", "CAN"]
+      "highlights": [
+        "React",
+        "dotnet",
+        "typescript",
+        "CAN"
+      ]
     },
     {
       "company": "Huawei",
@@ -80,7 +97,12 @@
       "startDate": "2016-09-01",
       "endDate": "2016-08-31",
       "summary": "Programvaruutvecklingsexpert på Huaweis forskningskontor i Göteborg. Produkt- och Utvecklingsansvarig för en intern mjukvarusimulator för forskning. Arbetet bestod av Matlab-programmering, systemoptimering, GPU-kodning, utvecklingsmiljö (SVN/Git, YouTrack/TeamCity/GitLab) och distribuerade simuleringar. Kunden har gått från projekt till produkt med utvecklingsmiljö, projektverktyg, automatiserade tester och möjlighet att köra stora distribuerade simuleringar.",
-      "highlights": ["GPU-programmering", "Matlab", "Optimiering", "Systemarkitekt"]
+      "highlights": [
+        "GPU-programmering",
+        "Matlab",
+        "Optimiering",
+        "Systemarkitekt"
+      ]
     },
     {
       "company": "SKF",
@@ -97,7 +119,7 @@
       "website": "https://aidr.com",
       "startDate": "2016-03-01",
       "endDate": "",
-      "summary": "Grundare och CTO med ansvar för utveckling och drift av InnovDr:s tekniska system, däribland www.urinkollen.se och www.aird.com.",
+      "summary": "Medgrundare och CTO med ansvar för utveckling och drift av InnovDr:s tekniska system, däribland www.urinkollen.se och www.aird.com.",
       "highlights": []
     },
     {
@@ -115,7 +137,7 @@
       "website": "",
       "startDate": "2015-01-01",
       "endDate": "2015-05-01",
-      "summary": "",
+      "summary": "Utveckling av Skandias Windows Phone-bank-app.",
       "highlights": []
     },
     {
