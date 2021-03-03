@@ -45,8 +45,7 @@
         "Reinforcement Learning",
         "Machine Learning",
         "Fullstack software development",
-        "Kubernetes, Docker, OpenShift, Helm, Dapr",
-        ".NET core, React, gRPC, SignalR, Python, Numpy, Pandas"
+        "Systemarkitektur"
       ]
     },
     {
@@ -451,7 +450,9 @@
         "Parallella simuleringssystem",
         "Matlab, Python",
         "Reinforcement Learning",
-        "Machine Learning"
+        "Machine Learning",
+        "Systemarkitektur",
+        "Cloud"
       ]
     },
     {
@@ -460,6 +461,7 @@
       "keywords": [
         "CTO / teknisk chef",
         "VD / startups",
+        "Co-founder / startups",
         "Marknadsföring / sälj"
       ]
     },
@@ -470,11 +472,36 @@
         "Programmering",
         "Arkitektur",
         "Gränssnitt",
-        "Cloud/server/backend",
         "Kommunikation",
         "Datainsamling",
+        "Cloud/server/backend",
         "Mobilt",
-        "Embedded"
+        "Embedded",
+        ".NET, React, gRPC, SignalR, Python, Numpy, Pandas"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Helm",
+        "Dapr",
+        "Azure, IBM, Oracle",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Programmeringspråk",
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "C#",
+        "Javascript/Typescript",
+        "Objective C",
+        "Java",
+        "Python"
       ]
     },
     {
@@ -484,9 +511,9 @@
         "Keras",
         "Tensorflow",
         "Matlab",
-        "Python/Jupyter",
+        "Python - Jupyter, Numpy, Pandas",
         "Azure Machine Learning Studio",
-        ""
+        "Reinforcement Learning"
       ]
     }
   ],
