@@ -1,5 +1,5 @@
 wget -qO- \
-  "https://github.com/yihui/tinytex/raw/master/tools/install-unx.sh" | sh
+  "https://raw.githubusercontent.com/yihui/tinytex/main/tools/install-unx.sh" | sh
 
 JEKYLL_ENV=production jekyll build
 
