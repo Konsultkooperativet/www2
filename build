@@ -10,6 +10,7 @@ cp /opt/build/repo/_site/*.tex /opt/build/repo/_latex/
 cd  /opt/build/repo/_latex/
 
 export PATH="$PATH:$HOME/bin"
+tlmgr update --self
 
 ~/bin/xelatex -interaction=batchmode markusberglund
 ~/bin/xelatex -interaction=batchmode johanisaksson
