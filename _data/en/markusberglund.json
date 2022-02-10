@@ -2,12 +2,12 @@
   "basics": {
     "filename": "markusberglund",
     "name": "Markus Berglund",
-    "label": "PMP Project Manager and Software Architect",
+    "label": "Senior Python/C++ Developer and Software Architect",
     "picture": "/assets/img/markusberglund_avatar.jpg",
     "email": "mb@konsult.coop",
     "phone": "0735-214942",
     "website": "",
-    "summary": "Markus is a technical consultant with experience within a broad range of technologies and businesses. Markus is a certified (PMP) project manager, having lead research projects for next generation mobile networks, as well as product development within internet safety and security.  Markus has excellent communications skills, and often takes a leading role in teams. Markus also has experience in office and staff management, having recruited both development engineers and sales executives. Comfortable in working on many platforms, in agile teams, and in international organisations. Very well structured and organised.",
+    "summary": "Markus is a technical consultant with experience within a broad range of technologies and businesses. Markus have lead research projects for next generation mobile networks, developed advanced ray-tracing based twin simulator for future radio networks, as well as product development within internet safety and security. Markus has excellent communications skills, and often takes a leading role in teams. Markus also has experience in office and staff management, having recruited both development engineers and sales executives. Comfortable in working on many platforms, in agile teams, and in international organisations. Very well structured and organised.",
     "location": {
       "address": "Doktor Lindhs gata 4",
       "postalCode": "41325",
@@ -33,11 +33,11 @@
       "website": "",
       "startDate": "2018-04-01",
       "endDate": "",
-      "keywords": ["Docker", "Python", "Jenkins", "Product Owner", "5G", "Research", "Matlab"],
-      "summary": "Product Owner and Manager for the simulators developed in Gothenburg. Leading and managing the development efforts in simulators for research of next generation Mobile networks.",
+      "keywords": ["Python", "C++", "nvidia", "raytracing", "Jenkins", "Product Owner", "Docker", "5G", "Research", "Matlab"],
+      "summary": "Product Owner/Manager and lead developer for the digital twin simulators developed in Gothenburg. Software written in Scientific Python (numpy/numba) and accelerated with C++/OptiX/CUDA. Simulator based on novel invention for extremely fast channel evaluations based on a hybrid point cloud / raytracing model.",
       "highlights": [
-        "Setup of Docker Swarm for computing effciency",
-        "Continuous ingration setup"
+        "Channel realizations magnitudes faster than commercial alternatives",
+        "Lead developer and architect"
       ],
       "location": {
 			"city": "Gothenburg",
