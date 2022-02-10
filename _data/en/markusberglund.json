@@ -29,12 +29,12 @@
   "work": [
     {
       "company": "Huawei Technologies Sweden AB",
-      "position": "Product Manager",
+      "position": "Lead Architect / Developer - Digital Twin simulator",
       "website": "",
       "startDate": "2018-04-01",
       "endDate": "",
       "keywords": ["Python", "C++", "nvidia", "raytracing", "Jenkins", "Product Owner", "Docker", "5G", "Research", "Matlab"],
-      "summary": "Product Owner/Manager and lead developer for the digital twin simulators developed in Gothenburg. Software written in Scientific Python (numpy/numba) and accelerated with C++/OptiX/CUDA. Simulator based on novel invention for extremely fast channel evaluations based on a hybrid point cloud / raytracing model.",
+      "summary": "Product Owner/Manager and lead developer for the digital twin simulator developed in Gothenburg. Software written in Python (numpy/numba) and accelerated with C++/OptiX/CUDA. Simulator based on novel technology for extremely fast channel evaluations based on a hybrid point cloud / raytracing model.",
       "highlights": [
         "Channel realizations magnitudes faster than commercial alternatives",
         "Lead developer and architect"
@@ -86,7 +86,7 @@
       "keywords": ["Entrepreneurship", "Project Management", "Linux", "Clustering", "PHP", "Bash", "Continuous Integration", "Android", "Squid"],
       "summary": "Markus was in charge of development for CronLab Ltd’s web filtering services, which was used by companies and schools troughout Europe. The system was also built into other manufacturers’ products, e.g., the Android tablet Kurio, targeted to children, where CronLab’s filtering services limits web access. Markus was also managing all aspects of the Swedish subsidiary, being the only Director located in Sweden.",
       "highlights": [
-        "The filtering service currently has over 1,000,000 users worldwide",
+        "The filtering service currently has over 2,000,000 users worldwide",
         "Office manager, recruited and managed developers and sales staff"
       ],
       "location": {
@@ -120,10 +120,7 @@
       "endDate": "2010-08-31",
 		"keywords": ["3GPP", "BTS System", "Baseband", "C/C++", "Software Architecture", "Software Ingration", "ClearCase"],
       "summary": "Markus worked with signal processing in the baseband parts of Ericsson’s WCDMA base station software. The work involved implementing the baseband application on a new architecture based on C++.",
-      "highlights": [
-        "Designed and implemented one of the key memory allocators for the baseband chips",
-        "Managed the integration of the different software modules"
-      ],
+      "highlights": [],
       "location": {
 			"city": "Gothenburg",
 			"countryCode": "",
@@ -216,7 +213,7 @@
       "startDate": "2003-11-01",
       "endDate": "2005-10-31",
       "keywords": ["HW Prototyping", "C/C++", "JAVA", "Matlab", "PCB"],
-      "summary": "Genovis among other things manufactures microscopic ferro particles which are used in biotech research to e.g. change genetic information in cells. Markus helped Genovis to develop different tools to measure the particle's sizes. Both by developing RF electronics to create high frequency magnetic fields and measure the induced energy, but also by developing simple systems to automate some lab tasks made by their staff.",
+      "summary": "Genovis manufactures microscopic ferro particles which are used in biotech research to e.g. change genetic information in cells. Markus helped Genovis to develop different tools to measure the particle's sizes. Both by developing RF electronics to create high frequency magnetic fields and measure the induced energy, but also by developing simple systems to automate some lab tasks made by their staff.",
       "highlights": [],
       "location": {
 			"city": "Lund",
@@ -293,21 +290,24 @@
 
     }
   ],
-  "awards": [
-    {
-      "title": "Project Manager Professional",
-      "date": "2017-08-01",
-      "awarder": "Project Management Institute",
-      "summary": "Certified Project Manager Professional by the Project Management Institute",
-      "location": {
-			"city": "Stockholm",
-			"countryCode": "",
-			"region": ""
-		} 
-    }
-  ],
+  "awards": [],
   "publications": [],
   "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "nvidia OptiX",
+        "Matlab",
+        "Bash",
+        "Android",
+        "Enbedded Systems",
+        "Make",
+        "Contiuous integration"
+		]
+    },
     {
       "name": "Management",
       "level": "",
@@ -326,44 +326,25 @@
       "name": "Telecom",
       "level": "",
       "keywords": [
-		  "Massive MIMIO",
+        "Channel Modeling",
+	"Simulations",
+	"Digital Twin",
+	"Massive MIMIO",
         "3GPP",
         "WCDMA",
-        "LTE",
-        "5G",
-        "Channel Modeling",
-		  "Simulations",
-		  "METIS",
-		  "BTS System"
+	"METIS"
       ]
     },
     {
-      "name": "Programming",
+      "name": "Internet / Computing",
       "level": "",
       "keywords": [
-        "C/C++",
-        "Matlab",
-        "PHP",
-        "Java",
-        "Bash",
-        "Android",
-        "Perl",
-        "Enbedded Systems",
-        "Make",
-        "Contiuous integration"
-		]
-    },
-    {
-      "name": "Internet / Web",
-      "level": "",
-      "keywords": [
-		  "SMTP",
-        "Networking",
+        "Docker",
+        "Paraview",
         "Clustering",
         "Load balancing",
         "HTML", 
-        "CSS", 
-        "AJAX"
+        "CSS"
       ]
     }
   ],
