@@ -272,22 +272,6 @@
 			"region": ""
 		} 
 
-    },
-    {
-      "institution": "Nohau",
-      "area": "C++ for embedded systems",
-      "studyType": "",
-      "startDate": "2008-08-01",
-      "endDate": "2008-08-31",
-      "gpa": "",
-      "summary": "C++ specifics for embedded systems with very limited resources",
-      "courses": [],
-      "location": {
-			"city": "Jönköping",
-			"countryCode": "",
-			"region": ""
-		} 
-
     }
   ],
   "awards": [],
